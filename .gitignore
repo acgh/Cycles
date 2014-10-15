@@ -1,0 +1,5 @@
+.DS_Store
+*.xcodeproj/*.pbxuser
+*/project.xcworkspace/xcuserdata/*.xcuserdatad
+*/xcuserdata/*.xcuserdatad
+*/project.xcworkspace/contents.xcworkspacedata

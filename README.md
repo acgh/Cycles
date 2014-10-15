@@ -1,0 +1,1 @@
+This is a simple sample code to show a way of finding cycles in a graph of NSObjects at run time.
